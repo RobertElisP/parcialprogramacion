@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.exe
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.deps.json
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.dll
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\bin\Debug\netcoreapp3.1\SegundoParcial2.pdb
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.dll
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.pdb
+C:\Users\pedro\OneDrive\Escritorio\SegundoParcial\SegundoParcial2\obj\Debug\netcoreapp3.1\SegundoParcial2.genruntimeconfig.cache
